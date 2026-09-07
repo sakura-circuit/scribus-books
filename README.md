@@ -1,16 +1,16 @@
 # Scribus Books
 
-A collection of book design and desktop publishing projects created with **Scribus 1.6.6**, using public-domain literary works as demonstration material.
+A collection of book design and desktop publishing projects created with **Scribus 1.6.6**, using public-domain literary works as source material.
 
-The purpose of this repository is to demonstrate professional book layout, typography, page composition, image preparation, color management, and print/digital publishing workflows.
+The purpose of this repository is to demonstrate practical skills in **book layout, typography, page composition, image preparation, color management, and print/digital publishing workflows**.
 
 ## About This Project
 
-This repository contains book projects created as a portfolio and demonstration of skills in **Scribus and digital publishing**.
+This repository contains book projects created as a portfolio and demonstration of skills in **Scribus, desktop publishing, graphic design, and digital publishing**.
 
-The books use literary works that are in the public domain, such as _The Picture of Dorian Gray_ by Oscar Wilde. The original literary works are used as source material for creating new layouts and visual designs.
+The projects use public-domain literary works as source material for creating new book layouts and visual designs.
 
-The focus of the projects is not on modifying the original literary works, but on demonstrating the complete **book production and desktop publishing workflow**.
+The focus is on demonstrating the complete **book production and desktop publishing workflow**, from source material and image preparation through page layout and final PDF production.
 
 ## Software
 
@@ -60,6 +60,7 @@ The projects may use the following software:
 - Digital PDF production
 - Screen-optimized documents
 - Ebook-oriented layouts
+- Digital document optimization
 - EPUB workflows where appropriate
 
 ## Repository Structure
@@ -68,6 +69,8 @@ The projects may use the following software:
 scribus-books/
 │
 ├── README.md
+├── LICENSE
+├── .gitignore
 │
 ├── Book-01-The-Picture-of-Dorian-Gray/
 │   ├── Interior/
@@ -96,7 +99,7 @@ scribus-books/
 ├── Book-02/
 │   └── ...
 │
-└── .gitignore
+└── ...
 ```
 
 The exact structure may vary between projects depending on the requirements of each book.
@@ -116,21 +119,28 @@ The project demonstrates:
 - Facing-page layout
 - Master pages
 - Automatic page numbering
+- Page sections and numbering
 - Chapter formatting
 - Text-frame linking
 - Book cover design
 - Image preparation
 - Print-oriented PDF production
 
-**Software:** Scribus 1.6.6, GIMP, Photoshop, Krita
+**Software:** Scribus 1.6.6, GIMP, Adobe Photoshop, Krita
 
-> Copyright note: The original work is in the public domain in many jurisdictions. Copyright status can vary by country, and this project does not assume that every translation, edition, illustration, or other derivative material is public domain.
+### Rights & Sources
+
+The project uses the original literary work as source material.
+
+The copyright status of the **underlying literary work** is separate from the copyright status of individual editions, translations, illustrations, annotations, introductions, and other derivative or edition-specific material.
+
+The specific source edition and visual assets used for each project should be documented in that project's documentation.
 
 ## Public-Domain Source Material
 
 The projects use literary works that are believed to be in the public domain.
 
-However, **public-domain status applies to the underlying work and does not automatically apply to every edition or translation**.
+Public-domain status applies to the underlying work and does **not automatically apply to every edition or translation**.
 
 Particular care is taken with:
 
@@ -139,29 +149,102 @@ Particular care is taken with:
 - Modern illustrations
 - Modern cover artwork
 - Modern typesetting
-- Digitized editions with additional rights
+- Digitized editions
+- Photographs and other third-party assets
 
 Where possible, original-language public-domain texts and clearly public-domain visual materials are used.
 
+Users should independently verify the copyright status of source material in the jurisdiction where they intend to use or distribute it.
+
 ## Copyright & Licensing
 
-The purpose of this repository is educational and portfolio-oriented.
+### Original Work
 
-The original literary works used in these projects may be public domain, but individual source editions, translations, illustrations, fonts, photographs, and other assets may have separate copyright or licensing conditions.
+Unless otherwise stated, original creative material created specifically for this repository is licensed under the:
 
-**Do not assume that every file contained in this repository is public domain solely because the original literary work is public domain.**
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
-Each project should document the relevant sources and licenses for its text, images, illustrations, and fonts.
+This includes original creative work such as:
 
-Original layouts, artwork, design elements, and other creative work produced specifically for this repository are the work of the repository author unless otherwise stated.
+- Scribus `.sla` source files
+- Book layouts
+- Typography and page compositions
+- Original cover designs
+- Original illustrations
+- Original artwork
+- Original graphic design elements
 
-## Fonts
+The CC BY-NC 4.0 license permits others to share, copy, and adapt covered material for **non-commercial purposes**, provided that appropriate attribution is given.
 
-Fonts used in the projects are not necessarily included in the repository.
+See the [`LICENSE`](./LICENSE) file for the applicable terms.
 
-This is intentional because some fonts have licenses that prohibit redistribution.
+**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Each project should identify the fonts used and provide their respective licensing/source information where appropriate.
+### Public-Domain Literary Works
+
+Public-domain literary works used as source material are **not being relicensed under CC BY-NC 4.0**.
+
+The repository author does not claim ownership of the underlying public-domain literary works.
+
+The repository's license applies only to original creative contributions made by the repository author, where the author has the necessary rights to grant that license.
+
+### Third-Party Material
+
+Third-party material included in a project is **not automatically covered by the repository's CC BY-NC 4.0 license**.
+
+This may include:
+
+- Images
+- Illustrations
+- Photographs
+- Fonts
+- Translations
+- Text from modern editions
+- Textures
+- Icons
+- Other third-party assets
+
+Each third-party item remains subject to its own copyright and/or license terms.
+
+Where applicable, each project should identify the source, creator, license, and attribution requirements for third-party material.
+
+### Fonts
+
+Fonts used to create the projects may have licenses that restrict redistribution.
+
+Font files are therefore not necessarily included in the repository.
+
+Where appropriate, projects may document:
+
+- Font family name
+- Font version
+- Foundry or creator
+- Source
+- License
+- Where the font can legally be obtained
+
+Users who reproduce or modify a project are responsible for obtaining and complying with the applicable font licenses.
+
+### Software
+
+The repository does not grant a license to third-party software used to create the projects.
+
+The projects may be created using:
+
+- Scribus
+- Adobe Photoshop
+- GIMP
+- Krita
+
+These programs are separate software products and remain subject to their respective licenses and terms.
+
+### License Scope
+
+The repository's CC BY-NC 4.0 license applies **only to original creative material for which the repository author has the necessary rights to grant the license**.
+
+It does not override copyright, trademark, font licensing, or other rights belonging to third parties.
+
+When reusing material from this repository, users should check the individual project's documentation and identify which components are covered by CC BY-NC 4.0 and which are subject to separate terms.
 
 ## Print vs Digital Editions
 
@@ -169,7 +252,7 @@ Where appropriate, projects may contain separate versions for print and digital 
 
 ### Print Edition
 
-The print edition is designed for professional printing and may include:
+The print edition is designed with professional print-production requirements in mind and may include:
 
 - CMYK color
 - Bleed
@@ -178,13 +261,15 @@ The print edition is designed for professional printing and may include:
 - Embedded fonts
 - PDF/X output
 
-The exact PDF/X standard and color profile should be selected according to the requirements of the intended printing service.
+The exact PDF/X standard, color profile, bleed, and other production settings should be selected according to the requirements of the intended printing service.
 
 ### Digital Edition
 
 The digital edition is optimized for viewing on computers, tablets, and other digital devices.
 
 Digital PDFs may use different image resolution, compression, color settings, and file-size optimization than the print edition.
+
+Where an EPUB version is produced, the EPUB is treated as a separate digital publishing output and may require additional tools or workflows beyond Scribus.
 
 ## Design Philosophy
 
@@ -202,7 +287,7 @@ Particular attention is given to:
 - Chapter openings
 - Image placement
 - Consistency across spreads
-- Print production requirements
+- Print-production requirements
 
 ## Portfolio Purpose
 
@@ -210,7 +295,7 @@ This repository is intended to demonstrate practical skills in:
 
 **Desktop Publishing → Typography → Book Design → Image Preparation → Color Management → Print Production → Digital Publishing**
 
-The projects are created as portfolio pieces and are intended to demonstrate the ability to take source material through a complete book-production workflow.
+The projects are created as portfolio pieces to demonstrate the ability to take source material through a complete book-production workflow.
 
 ## Author
 
