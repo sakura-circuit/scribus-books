@@ -1,0 +1,17 @@
+# Scribus temporary / backup files
+*.sla.bak
+*.sla.autosave
+*.tmp
+
+# EPUB
+*.epub
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# GIMP temporary/backup files
+*.xcf.bak
