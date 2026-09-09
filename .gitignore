@@ -6,9 +6,6 @@
 # EPUB
 *.epub
 
-# TXT
-*.txt
-
 # Temporary files
 *.swp
 *.swo

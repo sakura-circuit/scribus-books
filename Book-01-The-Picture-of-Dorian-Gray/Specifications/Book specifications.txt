@@ -1,0 +1,18 @@
+
+Page parameters:
+X-pos: left 17 mm right 22 mm
+Y-pos: 20 mm
+Width: 109 mm
+Height: 168 mm
+
+Chapter title parameters:
+X-pos: left 17 mm right 22 mm
+Y-pos: 42 mm
+Width: 109 mm
+Height: 10 mm
+
+Chapter first text frame parameters:
+X-pos: left 17 mm right 22 mm
+Y-pos: 81 mm
+Width: 109 mm
+Height: 107 mm
