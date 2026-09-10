@@ -12,6 +12,21 @@ The projects use public-domain literary works as source material for creating ne
 
 The focus is on demonstrating the complete **book production and desktop publishing workflow**, from source material and image preparation through page layout and final PDF production.
 
+## Location of PDF Books
+
+Location of PDF books is inside folders:
+
+Book-01-The-Picture-of-Dorian-Gray/PDF Book and Cover/The Picture of Dorian Gray - Oscar Wilde.pdf \
+Book-02/PDF Book and Cover/Book 2.pdf \
+Book-03/PDF Book and Cover/Book 3.pdf \
+...
+
+## Screenshots of PDF books
+
+<img src="./Book-01-The-Picture-of-Dorian-Gray/Screenshots/Screenshot 1.png" width="840" alt="Screenshot 1">
+
+<img src="./Book-01-The-Picture-of-Dorian-Gray/Screenshots/Screenshot 2.png" width="840" alt="Screenshot 2">
+
 ## Software
 
 The projects may use the following software:
