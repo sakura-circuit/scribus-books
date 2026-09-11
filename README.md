@@ -14,11 +14,16 @@ The focus is on demonstrating the complete **book production and desktop publish
 
 ## Location of PDF Books
 
-Location of PDF books is inside folders:
-
 Book-01-The-Picture-of-Dorian-Gray/PDF Book and Cover/The Picture of Dorian Gray - Oscar Wilde.pdf \
 Book-02/PDF Book and Cover/Book 2.pdf \
 Book-03/PDF Book and Cover/Book 3.pdf \
+...
+
+## Location of Scribus .sla files
+
+Book-01-The-Picture-of-Dorian-Gray/Interior/The Picture of Dorian Gray - Oscar Wilde.sla \
+Book-02/Interior/Book 2.sla \
+Book-03/Interior/Book 3.sla \
 ...
 
 ## Screenshots of PDF books
